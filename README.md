@@ -1,7 +1,7 @@
-Hi there 👋 I am **Jephthah Jehosaphat Landicho** BSIT graduating student, Major in Business Analytics from Batangas State University
+Hi there 👋 I am **Jephthah Jehosaphat Landicho** BSIT graduate, Major in Business Analytics
 
 
-- 🌱 I’m currently learning to **React Native**, **Javascript**, and **Data Analytics**
+- 🌱 I’m currently learning to **React Native**, **Javascript**, **Django**, and **Data Analytics**
 - 👯 I’m looking to collaborate with anyone
 - 📫 How to reach me: Visit my Facebook profile or email me.
 <!--
