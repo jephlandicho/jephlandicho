@@ -1,31 +1,57 @@
 # 💫 About Me:
-Hi there 👋 I am Jephthah Jehosaphat Landicho BSIT graduate, Major in Business Analytics<br><br>🌱 I’m currently learning to React Native, Javascript, Django, and Data Analytics<br>👯 I’m looking to collaborate with anyone<br>📫 How to reach me: Visit my Facebook profile or email me.
+I’m Jephthah Jehosaphat Landicho, a BSIT graduate majoring in Business Analytics. With a solid background in both technology and business, I focus on bridging the gap between these two fields through innovative solutions.
 
+🌱 **Currently learning:** I’m delving into React Native, Vue, JavaScript, Django, and Data Analytics to continuously enhance my skill set.<br>
+👯 **Looking to collaborate:** I'm open to working with passionate developers, data enthusiasts, and business professionals who aim to create impactful projects.<br>
+⚡ **Passionate about:** Building dynamic web and mobile applications, solving complex data challenges, and learning new technologies that enhance business performance.<br>
+📫 **How to reach me:** Feel free to reach out via [Facebook](https://facebook.com/jephhhhhhhhh), [Instagram](https://instagram.com/jephlandicho), or [Email](mailto:jephlandicho@gmail.com).
+
+### EXPERIENCE
+
+**Software Developer, AutoTutor (June 2024 – Present)**  
+- Led backend development for dynamic web applications using Django.  
+- Integrated the Canvas LMS API, allowing seamless interaction between the learning platform and our web application.  
+- Worked on integrating OpenAI models to enhance functionality and automate various features, improving overall user experience.
+
+**Website Admin Intern, Jacinto and Lirio (February 2024 – May 2024)**  
+- Managed a team of interns, assigning tasks and ensuring smooth collaboration.  
+- Customized Shopify websites using the Liquid programming language to tailor templates to client needs.  
+- Regularly updated the website and implemented performance optimization strategies to improve loading speed and user experience.
+
+I love taking on new challenges and contributing to open-source projects, so let's connect if you're interested in collaborating on exciting tech endeavors!
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jephhhhhhhhh) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jephlandicho) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jephthah-jehosaphat-landicho-a099a9277) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@jephlandicho) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jephhhhhhhhh) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jephlandicho) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jephthah-jehosaphat-landicho-a099a9277) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@jephlandicho)
 
-# 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
+## 💻 Tech Stack:
+From front-end to back-end, I’ve developed expertise in the following technologies:
+- **Frontend:** HTML5, CSS3, JavaScript, React Native, Bootstrap, jQuery, Vue, React
+- **Backend:** Django, NodeJS, PHP, Python
+- **Databases:** MySQL, PostgreSQL, Microsoft SQL Server, MariaDB
+- **Tools and Platforms:** GitHub, GitLab, Vercel, DigitalOcean, PythonAnywhere, Anaconda, Postman
+- **Data Analytics:** NumPy, Pandas, scikit-learn, Power BI, Matplotlib
+- **Design:** Adobe Photoshop, Adobe Illustrator, Figma, Canva
+
+I’m also experienced in version control using Git and familiar with DevOps practices, including deployment on platforms like DigitalOcean and Vercel.
+
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jephlandicho&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jephlandicho&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jephlandicho&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=jephlandicho&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## ✍️ Random Dev Quote:
+"Code is like humor. When you have to explain it, it’s bad." – Cory House
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=jephlandicho&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+## 💰 You Can Help Me by Donating:
+If you’d like to support my work, feel free to donate through PayPal! Any amount is greatly appreciated.
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/jephthah12)
+
 ---
-[![](https://visitcount.itsvg.in/api?id=jephlandicho&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/jephthah12) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+This version includes more details about your skills and interests while maintaining the core message from your original "About Me." Let me know if you want any further adjustments!
